@@ -2,7 +2,7 @@
 
 # AEFA-FDB: A Physics-Inspired Metaheuristic for Stochastic Optimal Reactive Power Dispatch (ORPD)
 
-*![AEFA-FDB Framework](figures/AEFA-FDB-architecture.png)*
+*![AEFA-FDB Framework](main/AEFA-FDB-architecture.png)*
 *Figure: Overview of the AEFA-FDB Framework for Stochastic ORPD*
 
 ## 🔋 Overview
