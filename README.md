@@ -7,7 +7,7 @@
 
 ## 🔋 Overview
 
-**Optimal Reactive Power Dispatch (ORPD)** is essential for maintaining power system reliability, particularly in modern grids with high **renewable energy penetration**. This repository presents **AEFA-FDB**, a novel metaheuristic algorithm that integrates physical principles and learning strategies to solve the **stochastic ORPD problem** efficiently.
+**Optimal Reactive Power Dispatch (ORPD)** is essential for maintaining power system reliability, particularly in modern grids with high **renewable energy penetration**. This repository presents **AEFA-FDB**, a metaheuristic algorithm that integrates physical principles and learning strategies to solve the **stochastic ORPD problem** efficiently.
 
 AEFA-FDB is enhanced with:
 - A **Fitness Distance-Based (FDB) learning** mechanism
@@ -37,21 +37,7 @@ AEFA-FDB is enhanced with:
 
 - Up to **18% improvement** in power loss
 - Up to **43% improvement** in voltage deviation
-
----
-
-## 📁 Repository Structure
-
-├── figures/
-│ └── AEFA-FDB-architecture.png # Diagram of AEFA-FDB Framework
-├── data/
-│ └── ieee30_data.m # Sample system data (MATLAB)
-├── src/
-│ └── aefa_fdb_main.m # Main AEFA-FDB optimization code
-├── results/
-│ └── convergence_plots/ # Convergence and analysis figures
-├── README.md
-
+- 
 ---
 
 ## 🧠 Algorithm Highlights
@@ -65,16 +51,8 @@ AEFA-FDB is enhanced with:
 
 ## 🔧 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AEFA-FDB-ORPD.git
-   cd AEFA-FDB-ORPD
-2. Open src/aefa_fdb_main.m in MATLAB.
-
-3. Configure the bus system (30, 57, or 118) in the script.
-
-4. Run the algorithm:
- aefa_fdb_main
+ Run the algorithm:
+ main_FDBAEFA
 
 ## 📄 Citation
 If you use this work in your research, please cite:
