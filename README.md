@@ -37,7 +37,6 @@ AEFA-FDB is enhanced with:
 
 - Up to **18% improvement** in power loss
 - Up to **43% improvement** in voltage deviation
-- 
 ---
 
 ## 🧠 Algorithm Highlights
@@ -66,7 +65,7 @@ If you use this work in your research, please cite:
   publisher={Elsevier}
 }
 ```
-
+---
 ## 🤝 Contact
 For any queries, suggestions, or collaborations:
 
