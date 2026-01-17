@@ -56,7 +56,7 @@ AEFA-FDB is enhanced with:
 
 ## 📄 Citation
 If you use this work in your research, please cite:
-
+```bibtex
 @article{chauhan2025aefa,
   title={AEFA-FDB: A score-based artificial electric field algorithm for optimal reactive power dispatch problem with renewable and load demand uncertainties},
   author={Chauhan, Dikshit and Yadav, Anupam and Cho, Sung-Bae},
@@ -65,6 +65,7 @@ If you use this work in your research, please cite:
   year={2025},
   publisher={Elsevier}
 }
+```
 
 ## 🤝 Contact
 For any queries, suggestions, or collaborations:
